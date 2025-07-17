@@ -17,7 +17,12 @@ This project is an AI-powered tool that detects emotions in written text using N
 - Simple and clean UI with Streamlit
 
 ## 📷 Example Output
-![Example Output](result_screenshots/example_output.png)
+## 📊 Emotion Distribution Output
+![Emotion Bar Chart](outputs/emotion_bar_chart.png)
+
+## 📋 Predicted Emotions Table
+![Emotion Output Table](outputs/emotion_output_table.png)
+
 
 ## 📂 Folder Structure
 - `emotion_detection.ipynb`: Jupyter Notebook with complete code
